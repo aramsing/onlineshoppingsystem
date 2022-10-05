@@ -1,0 +1,8 @@
+PacMan 99,30,0,0
+Among Us,30,0,0
+Minecraft,30,0,0
+Super Mario Smash 3D World,30,0,0
+Animal Crossing,30,0,0
+Mortal Kombat,30,0,0
+Overwatch,30,0,0
+Assassin's Creed 3,30,0,0
